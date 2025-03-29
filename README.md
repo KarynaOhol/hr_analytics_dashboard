@@ -149,7 +149,6 @@ Integrates all components into an interactive web dashboard with filtering capab
 
 - **Dashboard won't start**: Ensure all dependencies are installed and the virtual environment is activated
 - **Visualizations not loading**: Check browser console for errors and ensure data file is in the correct location
-- **Filters not working**: Verify that the data contains the expected columns and values
 
 ## Acknowledgments
 
