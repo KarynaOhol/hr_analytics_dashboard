@@ -1,0 +1,7 @@
+Total Employees: 1470
+Attrition Rate: 16.12%
+Average Age: 36.92 years
+Gender Ratio: Male: 60.00%, Female: 40.00%
+Average Monthly Income: $6502.93
+Average Years at Company: 7.01
+Most Common Job Role: Sales Executive
